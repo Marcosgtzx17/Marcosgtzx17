@@ -1,12 +1,10 @@
-![Banner](https://via.placeholder.com/800x200/3498db/ffffff?Text=Bienvenido+a+mi+Perfil)
-
-👋 ¡Hola! Soy Marcos Gutiérrez 👨‍💻
+ 👋 ¡Hola! Soy Marcos Gutiérrez 👨‍💻
 
 Desarrollador apasionado por la tecnología, el aprendizaje constante y crear soluciones que marquen la diferencia.
 
----
 
-🚀 Sobre mí
+
+ 🚀 Sobre mí
 
 - 🎓 Estudiante de Técnico en ingeniería de desarrollo de software
 - 💼 Buscando oportunidades en desarrollo de software
@@ -15,7 +13,7 @@ Desarrollador apasionado por la tecnología, el aprendizaje constante y crear so
 
 ---
 
-🛠️ Tecnologías y herramientas
+ 🛠️ Tecnologías y herramientas
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -25,7 +23,7 @@ Desarrollador apasionado por la tecnología, el aprendizaje constante y crear so
 
 ---
 
-📈 Estadísticas
+ 📈 Estadísticas
 
 ![marcosgtzx17 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosgtzx17&show_icons=true&theme=tokyonight)
 
@@ -35,16 +33,8 @@ Desarrollador apasionado por la tecnología, el aprendizaje constante y crear so
 
 📫 Conecta conmigo
 
-<p align="left">
-  <a href="https://dev.azure.com/marcosgtzx7/" target="_blank">
-    <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
-    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:marcosgtzx7@hotmail.com" target="_blank">
-    <img align="center" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 🌐 [Azure](https://dev.azure.com/marcosgtzx7/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+- 📧 marcosgtzx7@hotmail.com
+
+
