@@ -34,7 +34,7 @@ Desarrollador apasionado por la tecnología, el aprendizaje constante y crear so
 📫 Conecta conmigo
 
 - 🌐 [Azure](https://dev.azure.com/marcosgtzx7/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcos-vladimir-calzadilla-guti%C3%A9rrez-57728535b/)
 - 📧 marcosgtzx7@hotmail.com
 
 
